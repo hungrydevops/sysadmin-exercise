@@ -80,20 +80,104 @@
 
 ### :diamond_shape_with_a_dot_inside: <a name="simple-questions">Simple Questions</a>
 
-- <b>What did you learn this week?</b>
-- <b>What excites or interests you about the sysadmin world?</b>
-- <b>What is a recent technical challenge you experienced and how did you solve it?</b>
-- <b>Tell me about the last major project you finished.</b>
-- <b>Do you contribute to any open source projects?</b>
-- <b>Describe the setup of your homelab.</b>
-- <b>What personal achievement are you most proud of?</b>
-- <b>Tell me about the biggest mistake you've made. How would you do it differently today?</b>
-- <b>What software tools are you going to install on the first day at a new job?</b>
-- <b>Tell me about how you manage your knowledge database (e.g. wikis, files, portals).</b>
-- <b>What news sources do you check daily? (sysadmin, security-related or other)</b>
-- <b>Your NOC team has a new budget for sysadmin certifications. What certificate would you like and why?</b>
-- <b>How do you interact with developers: *us vs. them* or *all pulling together with a different approach*?</b>
-- <b>Which sysadmin question would you ask, if you were interviewing me, to know, how good I'm with non-standard situations?</b>
+<details>
+<summary><b>What did you learn this week?</b></summary><br>
+
+- This week, I learned about the implementation of GitOps using Argo CD. It's a declarative way to manage Kubernetes clusters, which aligns well with the infrastructure as code (IaC) principles.
+
+</details>
+
+<details>
+<summary><b>What excites or interests you about the sysadmin world?</b></summary><br>
+
+- The constant evolution and the challenge it presents excite me. With cloud computing and IaC, the role of a sysadmin has become more integral and complex, requiring a continuous learning mindset. Every day is a new day here.
+
+</details>
+
+<details>
+<summary><b>What is a recent technical challenge you experienced and how did you solve it?</b></summary><br>
+
+- Recently, I encountered an issue with a Docker container that kept crashing due to insufficient memory. I resolved it by profiling the application to optimize its memory usage and adjusting the container's resource limits.
+
+</details>
+
+<details>
+<summary><b>Tell me about the last major project you finished.</b></summary><br>
+
+- The last major project was migrating our on-premises applications to AWS, using a combination of EKS for Kubernetes orchestration and Terraform for infrastructure provisioning.
+
+</details>
+
+<details>
+<summary><b>Do you contribute to any open source projects?</b></summary><br>
+
+- Yes, I contribute to a few open source projects, mainly in the area of container orchestration and IaC. I've submitted patches to Kubernetes and Terraform modules. Or you can skip this question.
+
+</details>
+
+<details>
+<summary><b>Describe the setup of your homelab.</b></summary><br>
+
+- My homelab consists of a couple of servers running ESXi for virtualization, a NAS for storage, and a dedicated firewall. I use it to experiment with different operating systems, network configurations, and new technologies like Kubernetes and Docker.
+
+</details>
+
+<details>
+<summary><b>What personal achievement are you most proud of?</b></summary><br>
+
+- Professionally, I'm most proud of leading the successful migration of our company’s infrastructure to the cloud, which significantly improved our deployment times and scalability.
+
+</details>
+
+<details>
+<summary><b>Tell me about the biggest mistake you've made. How would you do it differently today?</b></summary><br>
+
+- Early in my career, I made a mistake by not thoroughly testing a backup system, which led to data loss during a critical recovery operation. Now, I always ensure rigorous testing of backup and recovery processes.
+
+</details>
+
+<details>
+<summary><b>What software tools are you going to install on the first day at a new job?</b></summary><br>
+
+- On the first day, I'd install essential tools like a terminal emulator, a code editor (like Visual Studio Code), Docker, Kubernetes CLI tools, Terraform, and a secure shell client. For development, I prefer to use GitHub codespaces nowadays.
+
+</details>
+
+<details>
+<summary><b>Tell me about how you manage your knowledge database (e.g. wikis, files, portals).</b></summary><br>
+
+- I use a combination of Confluence for team collaboration, GitHub for version-controlled documentation, and personal notes in OneNote for quick reference.
+
+</details>
+
+<details>
+<summary><b>What news sources do you check daily? (sysadmin, security-related, or other)</b></summary><br>
+
+- I regularly check Ars Technica, The Hacker News, DevOps.com and Medium.com. I also follow various technology blogs and podcasts to stay updated.
+
+</details>
+
+<details>
+<summary><b>Your NOC team has a new budget for sysadmin certifications. What certificate would you like and why?</b></summary><br>
+
+- I'd be interested in the AWS Certified DevOps Engineer Professional because it's highly relevant to my work and would deepen my expertise in AWS services.
+
+</details>
+
+<details>
+<summary><b>How do you interact with developers: us vs. them or all pulling together with a different approach?</b></summary><br>
+
+- Definitely a collaborative approach. I believe in bridging the gap between development and operations, emphasizing communication and shared responsibilities.
+
+</details>
+
+<details>
+<summary><b>Which sysadmin question would you ask, if you were interviewing me, to know how good I am with non-standard situations?</b></summary><br>
+
+- I'd ask, "Can you describe a time when you had to implement a solution that was not well-documented or outside the standard procedures? How did you approach the problem and what was the outcome?"
+
+</details>
+
 
 ## <a name="general-knowledge">General Knowledge</a>
 
